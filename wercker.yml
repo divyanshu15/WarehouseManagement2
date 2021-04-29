@@ -1,5 +1,5 @@
 box: mcr.microsoft.com/dotnet/sdk:5.0
-no-responce-timeout : 10
+no-response-timeout : 10
 build:
   steps:
     -script:
